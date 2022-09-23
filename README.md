@@ -60,7 +60,7 @@ I built this using HTML, CSS and Vanilla JavaScript.
 
 The Array method `every()` was the key part to solving this problem.
 
-By pushing the inner-texts of each job-list's buttons into an array, the array of texts for each list Item could be compared with an array of "Filtering texts" to see if each of the list-item's texts matches with the filters.
+By pushing the inner-texts of each job-list's buttons into an array, the array of texts for each list Item could be compared with an array of "Filtering texts" to see if each of the list-item's texts match with the filters.
 
 ```js
 function filterListItems() {
