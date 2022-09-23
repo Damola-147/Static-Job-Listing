@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [See my solution to this challenge](https://www.frontendmentor.io/solutions/...)
-- Live Site URL: [View live site here](https://damola-147.github.io/...)
+- Live Site URL: [View live site here](https://damola-147.github.io/Static-Job-Listing/)
 
 ## My process
 
