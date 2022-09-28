@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See my solution to this challenge](https://www.frontendmentor.io/solutions/...)
+- Solution URL: [See my solution to this challenge](https://www.frontendmentor.io/solutions/static-job-listings-with-filtering-W2ib6tPmTk)
 - Live Site URL: [View live site here](https://damola-147.github.io/Static-Job-Listing/)
 
 ## My process
